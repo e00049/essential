@@ -1,0 +1,9 @@
+ctrl + p  - Find file
+
+
+Integrated terminal:
+ctrl + `      -  Show integrated terminal
+Ctrl + Shift + ` Create new terminal
+
+Editor management:
+Ctrl + \ Split editor
