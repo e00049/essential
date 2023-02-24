@@ -1,0 +1,9 @@
+wq     -   save and exit
+i      -   insert mode
+esc    -   insert mode to read mode
+
+shift + g - end of the doc
+49 + shift + g - To move line 49
+gg -  beginning of the line
+dd - delete current line 
+49 + dd - delete 49th line
